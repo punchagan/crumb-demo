@@ -1,5 +1,4 @@
 /.doit.db
 /cache/
-/conf.pyc
+/*.pyc
 /output/
-/posts/
