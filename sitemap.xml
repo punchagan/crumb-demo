@@ -5,31 +5,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://punchagan.github.io/crumb-demo/2014/index.html</loc>
-  <lastmod>2014-11-23</lastmod>
- </url>
- <url>
   <loc>https://punchagan.github.io/crumb-demo/archive.html</loc>
-  <lastmod>2014-11-23</lastmod>
+  <lastmod>2014-11-24</lastmod>
  </url>
  <url>
   <loc>https://punchagan.github.io/crumb-demo/categories/index.html</loc>
-  <lastmod>2014-11-23</lastmod>
- </url>
- <url>
-  <loc>https://punchagan.github.io/crumb-demo/galleries/index.html</loc>
-  <lastmod>2014-11-23</lastmod>
+  <lastmod>2014-11-24</lastmod>
  </url>
  <url>
   <loc>https://punchagan.github.io/crumb-demo/index.html</loc>
-  <lastmod>2014-11-23</lastmod>
- </url>
- <url>
-  <loc>https://punchagan.github.io/crumb-demo/listings/index.html</loc>
-  <lastmod>2014-11-23</lastmod>
- </url>
- <url>
-  <loc>https://punchagan.github.io/crumb-demo/posts/demo-post.html</loc>
-  <lastmod>2014-11-23</lastmod>
+  <lastmod>2014-11-24</lastmod>
  </url>
 </urlset>
