@@ -84,7 +84,7 @@ COMMENT_SYSTEM = "crumb"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = ""
+COMMENT_SYSTEM_ID = "s-pZZUF7vnkxXD1k89-Y3KJVrkM/punchagan/crumb-demo"
 
 SOCIAL_BUTTONS_CODE = ""
 
